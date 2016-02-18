@@ -2,9 +2,18 @@
 
 This project is a web-based application that reads RSS feeds. it uses [Jasmine](http://jasmine.github.io/) 
 
-# How to run this project
+## GitHub
 
-Download all files and open index.html.
+Github Repository: https://github.com/mounamn/Feed-Reader-Testing
+
+Github Pages: http://mounamn.github.io/Feed-Reader-Testing/
+
+## Run the Project
+
+--> Use Github pages http://mounamn.github.io/Feed-Reader-Testing/
+
+or --> Install the project in your machine. You can clone the repository using ## git clone https://github.com/mounamn/Feed-Reader-Testing.git , 
+or you can download the ZIP from https://github.com/mounamn/Feed-Reader-Testing
 
 # How did I complete this project?
 
